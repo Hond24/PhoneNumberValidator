@@ -22,10 +22,12 @@
 
 Enter your phone number: 
 **080-1234-5678**
+
 080-1234-5678: Phone number is valid
 
 Enter your phone number: 
 **08012345678**
+
 08012345678: Phone number is not valid. Please try again.
 
 ## 今後の予定
